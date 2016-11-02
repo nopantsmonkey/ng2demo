@@ -1,0 +1,4 @@
+node_modules/*
+ngfactory/*
+static/*
+.idea/*
